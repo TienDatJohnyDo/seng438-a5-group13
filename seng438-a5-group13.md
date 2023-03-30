@@ -30,6 +30,7 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 <img src = "pictures/LVBResult.png" alt = "LVBResult.png" width = "700"/>
 
 
+The Jelinski.Moranda De-Eutrophication, John Musa's Basic Execution Time, John Musa's Logarithmic Poisson, and Non-homogeneous Posisson Models were not applicable for our Dataset hence we only test Geometric and Littlewood and Varral's Bayesian Models.
 
 
 # Assessment Using Reliability Demonstration Chart 
