@@ -55,6 +55,17 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 # Comparison of Results
 
 # Discussion on Similarity and Differences of the Two Techniques
+The two different techniques used in this lab were Reliability Growth Testing (RGT) and Reliability Demonstration Chart (RDC). Both of these methods are used to test the reliability of a system. 
+
+## Similarties
+* Both techniques are utilized to meet the reliability requirements of a system.
+* Both techniques are must test and analyze the system in order to evaluate the reliability
+
+## Differences
+* RGT and RDC use different methods to determine the reliability of a system. RGT uses two different metrics, Failure Intensity (FI) or Failure Rate (FR). These metrics will measure how the reliability will improve over time. RDC uses two different metrics, Time Between Failures (MTBF) or Probability of Failure (PoF). These metrics will determine if a system meets the reliability requirements. 
+* RGT is used to find and remove defects while designing and developing the system. RDC is used to demonstrate that a system meets reliability requirements.
+* RGT is typically used throughout the development of the system. RDC is typically used once the development of the system is finished.
+* RGT does not have any passing criteria, since it is used to find and remove defects during the development phase. RDC does have a passing criteria, since it is testing if the system meets the reliability requirements. 
 
 # How the team work/effort was divided and managed
 
