@@ -15,7 +15,7 @@ This lab introduced our group to the analysis of integration test data and vario
 
 # Assessment Using Reliability Growth Testing 
 <img src = "pictures/GeometricPred.png" alt = "GeometricPred.png" width = "400"/>
-
+<img src = "pictures/GeometricAnalysis.png" alt = "GeometricAnalysis.png" width = "400"/>
 # Assessment Using Reliability Demonstration Chart 
 
 # 
