@@ -41,7 +41,7 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 
 # How the team work/effort was divided and managed
 
-# 
+# r
 
 # Difficulties encountered, challenges overcome, and lessons learned
 1. First challenge was the learning 
