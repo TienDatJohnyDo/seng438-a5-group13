@@ -29,21 +29,34 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 ### Littlewood and Varral's Bayesian Reliability Model Results
 <img src = "pictures/LVBResult.png" alt = "LVBResult.png" width = "700"/>
 
+* As a note : The Jelinski.Moranda De-Eutrophication, John Musa's Basic Execution Time, John Musa's Logarithmic Poisson, and Non-homogeneous Posisson Models were not applicable for our Dataset hence we only test Geometric and Littlewood and Varral's Bayesian Models
 
-The Jelinski.Moranda De-Eutrophication, John Musa's Basic Execution Time, John Musa's Logarithmic Poisson, and Non-homogeneous Posisson Models were not applicable for our Dataset hence we only test Geometric and Littlewood and Varral's Bayesian Models.
+### Range analysis & Plots for failure rate and Reliability of the SUT for the test data provided
+
+### A discussion on decision making given a target failure rate 
+
+### A discussion on the advantages and disadvantages of reliability growth analysis
 
 
 # Assessment Using Reliability Demonstration Chart 
 
-#
+## 3 Plots for MTTFmin, twice, and half of it for the Dataset
+
+### MTTFmin
+
+### Twice 
+
+### Half
+
+### Evaluation and justification of the decision of the MTTFmin
+
+### Dicussion of advantages and disadvantages of RDC
 
 # Comparison of Results
 
 # Discussion on Similarity and Differences of the Two Techniques
 
 # How the team work/effort was divided and managed
-
-# r
 
 # Difficulties encountered, challenges overcome, and lessons learned
 1. First challenge was the learning 
