@@ -17,13 +17,15 @@ This lab introduced our group to the analysis of integration test data and vario
 Our group decided to use the Failure Document 2 in order to use the SRTAT method. We turned Failure Document into a text file and into the proper format in order to use the SRTAT
 
 ## Geometric Model of Dataset 2
-### Geometric Predicition
+### Geometric Prediction
 <img src = "pictures/GeometricPred.png" alt = "GeometricPred.png" width = "700"/>
 
 ### Geometric Model Results
 <img src = "pictures/GeometricAnalysis.png" alt = "GeometricAnalysis.png" width = "700"/>
 
+### Littlewood and Varral's Bayesian Reliability Model Prediction
 
+### Littlewood and Varral's Bayesian Reliability Model Results
 
 
 
