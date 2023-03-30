@@ -24,9 +24,9 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 <img src = "pictures/GeometricAnalysis.png" alt = "GeometricAnalysis.png" width = "700"/>
 
 ### Littlewood and Varral's Bayesian Reliability Model Prediction
-
+<img src = "pictures/LVBPred.png" alt = "LVBPred.png" width = "700"/>
 ### Littlewood and Varral's Bayesian Reliability Model Results
-
+<img src = "pictures/LVBResult.png" alt = "LVBResult.png" width = "700"/>
 
 
 
