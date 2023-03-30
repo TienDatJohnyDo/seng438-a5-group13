@@ -14,6 +14,7 @@
 This lab introduced our group to the analysis of integration test data and various software for reliability assessment tools. Within the first part we explored the reliability grouth testing with either START or C-SFRAT which would help us under visualize and learn about reliable growth testing. Moreoever, in part 2, we would be using RDC(reliability demonstration chart in order to learn what the trend of reliability of the system is measured to be. In all this lab helped introduce us to integration testing with START/C-SFRAT and RDC.
 
 # Assessment Using Reliability Growth Testing 
+![GeoPred](GeometricAnalysis.png)
 
 # Assessment Using Reliability Demonstration Chart 
 
