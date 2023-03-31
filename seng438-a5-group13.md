@@ -87,6 +87,7 @@ The two different techniques used in this lab were Reliability Growth Testing (R
 * RGT does not have any passing criteria, since it is used to find and remove defects during the development phase. RDC does have a passing criteria, since it is testing if the system meets the reliability requirements. 
 
 # How the team work/effort was divided and managed
+To ensure that the group’s productivity was optimized, Tommy and Tien Dat worked on the Reliability and Growth Testing while Stuart and Sina worked on the Reliability Demonstration Chart. Once these were completed, our group came together to discuss our findings and show each other how to use the techniques. Once this mutual learning was achieved, the group as a whole worked on the lab report together.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 1. First challenge was the learning 
