@@ -99,7 +99,7 @@ It is important to note that Reliability Growth Testing objective is to test the
 
 How we compared results : 
 
-We found that since both techniques deal with the system in two ways, it is possible for our group to use the results of each technique to make an overall statement of the SUT. Here the SRTAT deems the data set to be increasing in reliability and the RDC deems our dataset to be still within the continue testing phase meaning that the SUT show to continue testing because the data points have not reached acceptance category from MTTFmin. 
+We found that since both techniques deal with the system in two ways, it is possible for our group to use the results of each technique to make an overall statement of the SUT. Here the SRTAT deems the data set to be increasing in reliability and the RDC deems our dataset to be still within the continue testing phase meaning that the SUT show to continue testing because the data points have not reached acceptance category from MTTFmin. In conclusion, both RGT and RDC work hand in hand in order to determine the reliability of the SUT.
 
 # Discussion on Similarity and Differences of the Two Techniques
 The two different techniques used in this lab were Reliability Growth Testing (RGT) and Reliability Demonstration Chart (RDC). Both of these methods are used to test the reliability of a system. 
