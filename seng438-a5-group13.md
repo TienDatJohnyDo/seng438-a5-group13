@@ -92,7 +92,14 @@ In order to find MTTFmin, each group of pair testers would first input our data 
 * RDC does not account for all potential failures and factors that can affect reliability and reliability requirements. 
 
 # Comparison of Results
-From our first RGT testing, we found that the geometric model was a better fit for our dataset. Where the initial harzard rate was around 0.001950 where our RDC testing MTTF would be similar at 0.00114286. Here both techinques of RGT and RDC determined that the dataset 2  has a linear tread where the Time between failures get larger as errors occur. Hence this means that our dataset SUT is improving and errors occur less frequently as time increases. In our RDC, our data set sits within the "continue phase" where the SUT considered needs to progress in testing in order for the SUT to be considered acceptable. 
+From our first RGT testing, we found that the geometric model was a better fit for our dataset. Where the initial harzard rate was around 0.001950 where our RDC testing MTTF would be similar at 0.00114286. Here both techinques of RGT and RDC determined that the dataset 2  has a linear tread where the Time between failures get larger as errors occur. Hence this means that our dataset SUT is improving and errors occur less frequently as time increases. In our RDC, our data set sits within the "continue phase" where the SUT considered needs to progress in testing in order for the SUT to be considered acceptable.
+
+It is important to note that Reliability Growth Testing objective is to test the SUT with failure models in order to increase the reliability of the system. And Reliability Demonstration Chart testing will categorize the SUT into 3 ranges of Rejected, Continue testing, or Acceptance". 
+
+
+How we compared results : 
+
+We found that since both techniques deal with the system in two ways, it is possible for our group to use the results of each technique to make an overall statement of the SUT. Here the SRTAT deems the data set to be increasing in reliability and the RDC deems our dataset to be still within the continue testing phase meaning that the SUT show to continue testing because the data points have not reached acceptance category from MTTFmin. 
 
 # Discussion on Similarity and Differences of the Two Techniques
 The two different techniques used in this lab were Reliability Growth Testing (RGT) and Reliability Demonstration Chart (RDC). Both of these methods are used to test the reliability of a system. 
@@ -105,7 +112,6 @@ The two different techniques used in this lab were Reliability Growth Testing (R
 * RGT and RDC use different methods to determine the reliability of a system. RGT uses two different metrics, Failure Intensity (FI) or Failure Rate (FR). These metrics will measure how the reliability will improve over time. RDC uses two different metrics, Time Between Failures (MTBF) or Probability of Failure (PoF). These metrics will determine if a system meets the reliability requirements. 
 * RGT is used in discovering of defects while designing and developing the system. RDC is used to demonstrate that a system meets reliability requirements.
 * RGT is typically used throughout the development of the system. RDC is typically used once the development of the system is finished.
-* RGT does not have any passing criteria, since it is used to find and remove defects during the development phase. RDC does have a passing criteria, since it is testing if the system meets the reliability requirements. 
 
 # How the team work/effort was divided and managed
 To ensure that the group’s productivity was optimized, Tommy and Tien Dat worked on the Reliability and Growth Testing while Stuart and Sina worked on the Reliability Demonstration Chart. Once these were completed, our group came together to discuss our findings and show each other how to use the techniques. In some parts such as Part 2 of the lab we all work in finding the right parameters for the MTTFmin in order to output a accurate graph for our dataset. Once this mutual learning was achieved, the group as a whole worked on the lab report together. 
