@@ -9,6 +9,7 @@ Assignment 5 for Group 13
 This repository contains: 
 * Our written lab report
 * Our transformed dataset for SRTAT and RDC
+* Our RDC excel file
 * Folder of screenshots of Models and Techniques
 * Lab 5 Powerpoint (from cloned repository)
 * Lab 5 manual (from cloned repository)
