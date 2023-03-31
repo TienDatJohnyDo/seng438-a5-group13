@@ -53,10 +53,13 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 ## 3 Plots for MTTFmin, twice, and half of it for the Dataset
 
 ### MTTFmin
+<img src = "pictures/MTTF.png" alt = "MTTF.png" width = "700"/>
 
-### Twice 
+### Twice MTTF
+<img src = "pictures/2MTTF.png" alt = "2MTTF.png" width = "700"/>
 
-### Half
+### Half MTTF
+<img src = "pictures/halfMTTF.png" alt = "halfMTTF.png" width = "700"/>
 
 ### Evaluation and justification of the decision of the MTTFmin
 
