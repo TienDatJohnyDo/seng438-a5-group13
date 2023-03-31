@@ -37,6 +37,16 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 
 ### A discussion on the advantages and disadvantages of reliability growth analysis
 
+#### Advantages
+* RGT allows for early detection of defects within a system. This is advantageous because it allows developers of the system to fix their mistakes during the development process.
+* Since RGT allows for early detection, this will also save money long term since there will not be the need for as many repairs and fixes.
+* RGT uses a data-driven approach which is beneficial because this allows the system to improve reliability based on the results given.
+
+#### Disadvantages
+* RGT requires lots of resources such as money, time, and people/systems to collect and analyze the given data.
+* RGT is not able to help detect future problems within a system, only problems that are occurring at what the current state of the system is at that very moment.
+* RGT is able to find defects, but it only finds the defects, not what the root cause of the defect is.
+
 
 # Assessment Using Reliability Demonstration Chart 
 
@@ -51,6 +61,15 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 ### Evaluation and justification of the decision of the MTTFmin
 
 ### Dicussion of advantages and disadvantages of RDC
+#### Advantages
+* RDC is able to display graphs and data, making it easy to see the reliability of a system and measure if reliability requirements were met.
+* Since RDC has metrics that measure if reliability requirements were met, it can be used to ensure that customer expectations are met.
+* RDC follows a very well planned and structured approach meaning that the tests are very consistent.
+
+#### Disadvantages
+* Lots of tests need to be done in order to obtain reliable data. This can be very costly and time-consuming.
+* RDC does not find root causes of defects and failures within a system, meaning that the problem can reoccur or occur in other places.
+* RDC does not account for all potential failures and factors that can affect reliability and reliability requirements.
 
 # Comparison of Results
 
@@ -59,7 +78,7 @@ The two different techniques used in this lab were Reliability Growth Testing (R
 
 ## Similarties
 * Both techniques are utilized to meet the reliability requirements of a system.
-* Both techniques are must test and analyze the system in order to evaluate the reliability
+* Both techniques are must test and analyze the system in order to evaluate the reliability.
 
 ## Differences
 * RGT and RDC use different methods to determine the reliability of a system. RGT uses two different metrics, Failure Intensity (FI) or Failure Rate (FR). These metrics will measure how the reliability will improve over time. RDC uses two different metrics, Time Between Failures (MTBF) or Probability of Failure (PoF). These metrics will determine if a system meets the reliability requirements. 
