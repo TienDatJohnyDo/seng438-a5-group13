@@ -21,14 +21,25 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 ### Geometric Prediction
 <img src = "pictures/GeometricPred.png" alt = "GeometricPred.png" width = "700"/>
 
+This graph represents the geometric model of for the dataset 2. We can see the raw data as well as the predicition line where the failure number increases as time increases as well. The predicition is relatively similar due to the data points slowly back and forth for its time between failure.  
+
+
 ### Geometric Model Results
 <img src = "pictures/GeometricAnalysis.png" alt = "GeometricAnalysis.png" width = "700"/>
+
+In our model results for geometric model, our the results displays the estimate of the model as well as the 95% confidnece interval from the start and then end points of the dataset. In addition it will contain the proportional constant, initial hazard rate,  Meant-Time-Before-Next-Failure (MTBNF) and the current purification level. 
+
 
 ### Littlewood and Varral's Bayesian Reliability Model Prediction
 <img src = "pictures/LVBPred.png" alt = "LVBPred.png" width = "700"/>
 
+This graph represents the Littlewood and Varral Bayesian model of for the dataset 2. We can see the raw data as well as the predicition line where the failure number increases as time increases as well. This graph is quite similar to the geometric model but slightly different in the kolmogorov distance. 
+
+
 ### Littlewood and Varral's Bayesian Reliability Model Results
 <img src = "pictures/LVBResult.png" alt = "LVBResult.png" width = "700"/>
+
+In our model results for the Littlewood and Varral Bayesian model of for the dataset 2. This model differed where the results ouputted where formatted to alpha, iteration count, Beta0, Beta1, and Optimum. This model our group changed the parameters of Beta0 and Beta1  in order to find a better predicition of the dataset.
 
 * As a note : The Jelinski Moranda De-Eutrophication, John Musa's Basic Execution Time, John Musa's Logarithmic Poisson, and Non-homogeneous Posisson Models were not applicable for our Dataset hence we only test Geometric and Littlewood and Varral's Bayesian Models
 
