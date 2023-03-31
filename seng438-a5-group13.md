@@ -33,7 +33,7 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 * As a note : The Jelinski Moranda De-Eutrophication, John Musa's Basic Execution Time, John Musa's Logarithmic Poisson, and Non-homogeneous Posisson Models were not applicable for our Dataset hence we only test Geometric and Littlewood and Varral's Bayesian Models
 
 ### A discussion on decision making given a target failure rate 
-Our group found that in the SRTAT, we could not use the Laplace formula within the textfile but only with the excel file which we could not import into SRTAT, but we have notified our TA that we have done exploratory testing with different parameters in order to find plots and results for our dataset in order to select a range. Although we could not use Laplace in our testing, our group made exploratory test on the second model of Littlewood and Varral's. Here we tried to input different inputs for Beta0 and Beta1 in order to find parameters that will yield more accurate result. 
+Our group found that in the SRTAT, we could not use the Laplace formula within the textfile but only with the excel file which we could not import into SRTAT, but we have notified our TA that we have done exploratory testing with different parameters in order to find plots and results for our dataset in order to select a range. Although we could not use Laplace in our testing, our group made exploratory test on the second model of Littlewood and Varral's. Here we tried to input different inputs for Beta0 and Beta1 in order to find parameters that will yield more accurate result. Our group found that the changes in the parameters lead to better accuracy in failure predicitions while inputting the data. 
 
 ### A discussion on the advantages and disadvantages of reliability growth analysis
 
@@ -78,11 +78,10 @@ In order to find MTTFmin, each group of pair testers would first input our data 
 #### Disadvantages
 * Lots of tests need to be done in order to obtain reliable data. This can be very costly and time-consuming.
 * RDC does not find root causes of defects and failures within a system, meaning that the problem can reoccur or occur in other places.
-* RDC does not account for all potential failures and factors that can affect reliability and reliability requirements.
+* RDC does not account for all potential failures and factors that can affect reliability and reliability requirements. 
 
 # Comparison of Results
-
-Something on Geometric being better
+From our first RGT testing, we found that the geometric model was a better fit for our dataset. Where the initial harzard rate was around 0.001950 where our RDC testing MTTF would be similar at 0.00114286. Here both techinques of RGT and RDC determined that the dataset 2  has a linear tread where the number of failures increase as time increases as well. In our RDC, our data set sits within the "continue phase" where the SUT considered needs to progress in testing in order for the SUT to be considered acceptable.
 
 # Discussion on Similarity and Differences of the Two Techniques
 The two different techniques used in this lab were Reliability Growth Testing (RGT) and Reliability Demonstration Chart (RDC). Both of these methods are used to test the reliability of a system. 
