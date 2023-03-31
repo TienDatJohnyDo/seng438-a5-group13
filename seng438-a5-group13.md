@@ -14,8 +14,9 @@
 This lab introduced our group to the analysis of integration test data and various software for reliability assessment tools. Within the first part we explored the reliability grouth testing with either START or C-SFRAT which would help us under visualize and learn about reliable growth testing. Moreoever, in part 2, we would be using RDC(reliability demonstration chart in order to learn what the trend of reliability of the system is measured to be. In all this lab helped introduce us to integration testing with START/C-SFRAT and RDC.
 
 # Assessment Using Reliability Growth Testing 
-Our group decided to use the Failure Document 2 in order to use the SRTAT method. We turned Failure Document into a text file and into the proper format in order to use the SRTAT
+Our group decided to use the Failure Document 2 in order to use the SRTAT method. We turned Failure Document into a text file and into the proper format in order to use the SRTAT. Below are encompasses our plots and range 
 
+### Range analysis & Plots for failure rate and Reliability of the SUT for the test data provided
 ## Geometric Model of Dataset 2
 ### Geometric Prediction
 <img src = "pictures/GeometricPred.png" alt = "GeometricPred.png" width = "700"/>
@@ -29,11 +30,12 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 ### Littlewood and Varral's Bayesian Reliability Model Results
 <img src = "pictures/LVBResult.png" alt = "LVBResult.png" width = "700"/>
 
-* As a note : The Jelinski.Moranda De-Eutrophication, John Musa's Basic Execution Time, John Musa's Logarithmic Poisson, and Non-homogeneous Posisson Models were not applicable for our Dataset hence we only test Geometric and Littlewood and Varral's Bayesian Models
+* As a note : The Jelinski Moranda De-Eutrophication, John Musa's Basic Execution Time, John Musa's Logarithmic Poisson, and Non-homogeneous Posisson Models were not applicable for our Dataset hence we only test Geometric and Littlewood and Varral's Bayesian Models
 
-### Range analysis & Plots for failure rate and Reliability of the SUT for the test data provided
+
 
 ### A discussion on decision making given a target failure rate 
+A manner our group made had a diccsuion on decision making given a target failure rate. 
 
 ### A discussion on the advantages and disadvantages of reliability growth analysis
 
@@ -82,16 +84,16 @@ In order to find MTTFmin, each group of pair testers would first input our data 
 
 # Comparison of Results
 
-SOmething
+Something
 
 # Discussion on Similarity and Differences of the Two Techniques
 The two different techniques used in this lab were Reliability Growth Testing (RGT) and Reliability Demonstration Chart (RDC). Both of these methods are used to test the reliability of a system. 
 
-## Similarties
+### Similarties
 * Both techniques are utilized to meet the reliability requirements of a system.
 * Both techniques require testing and furhter analysis in order to determin the SUT's reliability. 
-* 
-## Differences
+
+### Differences
 * RGT and RDC use different methods to determine the reliability of a system. RGT uses two different metrics, Failure Intensity (FI) or Failure Rate (FR). These metrics will measure how the reliability will improve over time. RDC uses two different metrics, Time Between Failures (MTBF) or Probability of Failure (PoF). These metrics will determine if a system meets the reliability requirements. 
 * RGT is used in discovering of defects while designing and developing the system. RDC is used to demonstrate that a system meets reliability requirements.
 * RGT is typically used throughout the development of the system. RDC is typically used once the development of the system is finished.
@@ -103,5 +105,7 @@ To ensure that the group’s productivity was optimized, Tommy and Tien Dat work
 # Difficulties encountered, challenges overcome, and lessons learned
 1. First challenge was the learning how to use the Reliability Growth testing SRTAT as well as the inputs of the dataset 2. Our TA Sujesh told us to use excel in order to find the laplace transform for the parameters and input the formula into the sheet. Our group could not do find a way in order to import the excel file to the SRTAT. Here our group went through the route of exploratory testing in order to find our laplace transform and other range parameters. Here we were able to learn about laplace transform through our excel, but we had to use the text file for the SRTAT. 
 2. Second challange was learning how to use the Reliability Demonstration Chart. Here some group members were new to excel functionality which made it a learning curve for how to use the RDC model. Our group was able to input the data for the Dataset 2 into the cells, but finding how to find MTTF as well as format the graph in a manner that it would change with different values for maximum acceptance failures. Here our group was able to familiarize ourselves with excel as well as familiarize ourselves with the RDC. 
+3. Our third challenge was how to get the data into the correct format and understanding how the data is read through the each software. Our group found that it was a learning curve in order to format the data without any prior knowledge of input format. Here our group found it useful to find the instructions for the TA dicussion board. Lessong learned here, our group would've wanted to do more exploratory testing if we had more time I believe we woul've found a way to incorporated the datasets into our systems. 
+  
 # Comments/feedback on the lab itself
 This lab started out to be confusing due to some application not working for different operating system and was a learning curve to learn about these new tools. With a bit more clarification on the instruction of how to use the datasets would be beneficial in order to complete the lab. The TA's were able to post instructions on how to use the datasets given to us and clarified how to format each dataset per method we used in order to complete the lab. Moreover, if further instructions were given in order to use the RDC tool, or some more class notes on the RDC, it would be useful. Overall it was a good lab to learn about integration reliability testing tools of RGT and RDC. 
