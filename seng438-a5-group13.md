@@ -52,14 +52,19 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 
 ## 3 Plots for MTTFmin, twice, and half of it for the Dataset
 
-### MTTFmin
+### MTTFmin 
 <img src = "pictures/MTTF.png" alt = "MTTF.png" width = "700"/>
 
+In this figure above, it showcases of MTTFmin. We were about to find MTTFmin through making the parameters of maximum acceptable number of failures to 4 , per number of input events to 3500 meaning that we have the MTTF = 4/3500 = 0.00114286. Here our FIO is 4 failures per 3500 calls. Each normalized usage unit equals 875 calls. *Variable 25 
+
 ### Twice MTTF
-<img src = "pictures/2MTTF.png" alt = "2MTTF.png" width = "700"/>
+<img src = "pictures/2MTTF.png" alt = "2MTTF.png" width = "700"/> 
+
+In this figure above, it showcases of Twice MTTF. We were about to find  twiceMTTF through making the parameters of maximum acceptable number of failures to 8 , per number of input events to 3500 meaning that we have the MTTF = 8/3500 = 0.00228571.Here our FIO is 8 failures per 3500 calls. Each normalized usage unit equals 437.5 calls. *Variable 25
 
 ### Half MTTF
 <img src = "pictures/halfMTTF.png" alt = "halfMTTF.png" width = "700"/>
+In this figure above, it showcases of MTTFmin. We were about to find Half MTTF through making the parameters of maximum acceptable number of failures to 2 , per number of input events to 3500 meaning that we have the MTTF = 2/3500 = 0.00057143. Here our FIO is 2 failures per 3500 calls. Each normalized usage unit equals 1750 calls. *Variable 22
 
 ### Evaluation and justification of the decision of the MTTFmin
 
@@ -75,6 +80,8 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 * RDC does not account for all potential failures and factors that can affect reliability and reliability requirements.
 
 # Comparison of Results
+
+SOmething
 
 # Discussion on Similarity and Differences of the Two Techniques
 The two different techniques used in this lab were Reliability Growth Testing (RGT) and Reliability Demonstration Chart (RDC). Both of these methods are used to test the reliability of a system. 
