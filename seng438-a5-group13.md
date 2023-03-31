@@ -14,7 +14,7 @@
 This lab introduced our group to the analysis of integration test data and various software for reliability assessment tools. Within the first part we explored the reliability grouth testing with either START or C-SFRAT which would help us under visualize and learn about reliable growth testing. Moreoever, in part 2, we would be using RDC(reliability demonstration chart in order to learn what the trend of reliability of the system is measured to be. In all this lab helped introduce us to integration testing with START/C-SFRAT and RDC.
 
 # Assessment Using Reliability Growth Testing 
-Our group decided to use the Failure Document 2 in order to use the SRTAT method. We turned Failure Document into a text file and into the proper format in order to use the SRTAT. Below are encompasses our plots and range 
+Our group decided to use the Failure Document 2 in order to use the SRTAT method. We turned Failure Document into a text file and into the proper format in order to use the SRTAT. Below are encompasses our plots and range. 
 
 ### Range analysis & Plots for failure rate and Reliability of the SUT for the test data provided
 ## Geometric Model of Dataset 2
@@ -33,9 +33,8 @@ Our group decided to use the Failure Document 2 in order to use the SRTAT method
 * As a note : The Jelinski Moranda De-Eutrophication, John Musa's Basic Execution Time, John Musa's Logarithmic Poisson, and Non-homogeneous Posisson Models were not applicable for our Dataset hence we only test Geometric and Littlewood and Varral's Bayesian Models
 
 
-
 ### A discussion on decision making given a target failure rate 
-A manner our group made had a diccsuion on decision making given a target failure rate. 
+Our group found that in the SRTAT, we could not use the Laplace formula within the textfile but only with the excel file which we could not import into SRTAT, but we have notified our TA that we have done exploratory testing with different parameters in order to find plots and results for our dataset in order to select a range.
 
 ### A discussion on the advantages and disadvantages of reliability growth analysis
 
