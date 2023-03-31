@@ -92,7 +92,7 @@ In order to find MTTFmin, each group of pair testers would first input our data 
 * RDC does not account for all potential failures and factors that can affect reliability and reliability requirements. 
 
 # Comparison of Results
-From our first RGT testing, we found that the geometric model was a better fit for our dataset. Where the initial harzard rate was around 0.001950 where our RDC testing MTTF would be similar at 0.00114286. Here both techinques of RGT and RDC determined that the dataset 2  has a linear tread where the number of failures increase as time increases as well. In our RDC, our data set sits within the "continue phase" where the SUT considered needs to progress in testing in order for the SUT to be considered acceptable.
+From our first RGT testing, we found that the geometric model was a better fit for our dataset. Where the initial harzard rate was around 0.001950 where our RDC testing MTTF would be similar at 0.00114286. Here both techinques of RGT and RDC determined that the dataset 2  has a linear tread where the Time between failures get larger as errors occur. Hence this means that our dataset SUT is improving and errors occur less frequently as time increases. In our RDC, our data set sits within the "continue phase" where the SUT considered needs to progress in testing in order for the SUT to be considered acceptable. 
 
 # Discussion on Similarity and Differences of the Two Techniques
 The two different techniques used in this lab were Reliability Growth Testing (RGT) and Reliability Demonstration Chart (RDC). Both of these methods are used to test the reliability of a system. 
