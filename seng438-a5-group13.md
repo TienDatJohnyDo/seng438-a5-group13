@@ -41,12 +41,12 @@ This graph represents the Littlewood and Varral Bayesian model of for the datase
 
 
 ### Failure Intensity Graph made through Excel 
-<img src = "pictures/FailureInt" alt = "FailureInt.png" width = "700"/>
+<img src = "pictures/FailureInt.png" alt = "FailureInt.png" width = "700"/>
 
 Here is our excel graph of the Intensity graph made from our data set 2. Here our group found that error numbers will always increase in time as more errors are found.
 
 ### Time Between Failure Graph made through Excel 
-<img src = "pictures/Failure_Last" alt = "Failure_Last.png" width = "700"/>
+<img src = "pictures/Failure_Last.png" alt = "Failure_Last.png" width = "700"/>
 
 In this excel graph we can see that the time between failure is getting larger in which this means the SUT is improving and there is more time between the errors. 
 
