@@ -39,6 +39,17 @@ This graph represents the Littlewood and Varral Bayesian model of for the datase
 ### Littlewood and Varral's Bayesian Reliability Model Results
 <img src = "pictures/LVBResult.png" alt = "LVBResult.png" width = "700"/>
 
+
+### Failure Intensity Graph made through Excel 
+<img src = "pictures/FailureInt" alt = "FailureInt.png" width = "700"/>
+
+Here is our excel graph of the Intensity graph made from our data set 2. Here our group found that error numbers will always increase in time as more errors are found.
+
+### Time Between Failure Graph made through Excel 
+<img src = "pictures/Failure_Last" alt = "Failure_Last.png" width = "700"/>
+
+In this excel graph we can see that the time between failure is getting larger in which this means the SUT is improving and there is more time between the errors. 
+
 In our model results for the Littlewood and Varral Bayesian model of for the dataset 2. This model differed where the results ouputted where formatted to alpha, iteration count, Beta0, Beta1, and Optimum. This model our group changed the parameters of Beta0 and Beta1 in order to find a better predicition of the dataset.
 
 * As a note : The Jelinski Moranda De-Eutrophication, John Musa's Basic Execution Time, John Musa's Logarithmic Poisson, and Non-homogeneous Posisson Models were not applicable for our Dataset hence we only test Geometric and Littlewood and Varral's Bayesian Models
